@@ -13,3 +13,10 @@ sudo mkdir terraform-versioning
 # terraform_0.12.26_linux_amd64
 # terraform_0.12.21_linux_amd64
 ```
+
+##### terraform status check
+```sh
+# check version
+terraform --version
+# show 
+```
